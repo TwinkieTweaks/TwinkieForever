@@ -40,7 +40,7 @@ Keep in mind that **this is an experimental setting**, **it might not work at al
 <img width="1919" height="1079" alt="In stadium, with every UI element visible" src="https://github.com/user-attachments/assets/d613bbe6-55f6-468b-96dd-9b4be8f221b8" />
 
 ## Contribute
-To know how to make new modules, check out [`CreatingModules.md`](https://github.com/TwinkieTweaks/Twinkie/blob/master/CreatingModules.md)
+This project is discontinued.
 
 ## Create separate builds for different TMF variants
 The visual studio solution already comes with various build options for some TMF variants.\
