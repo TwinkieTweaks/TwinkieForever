@@ -20,7 +20,7 @@ GreffMASTER also provided me with a helpful list of class members and their offs
 - Hiding the in-game HUD might also hide the Twinkie UI or make it look weird. To fix this, try changing your shader quality to something different.
 
 ## Medal.tv
-Due to Medal's uncooperativeness, you might have to do these following steps to make Twinkie work alongside it: 
+You might have to do these following steps to make Twinkie work alongside it: 
 - Make sure your Medal app is up to date first. 
 - Then, in Settings > Advanced and in the "Advanced | Recording section, turn on "Force Window Capture". 
 Keep in mind that **this is an experimental setting**, **it might not work at all** or **it might make your clips stuttery** but it is worth trying.
@@ -41,13 +41,6 @@ Keep in mind that **this is an experimental setting**, **it might not work at al
 
 ## Contribute
 This project is discontinued.
-
-## Create separate builds for different TMF variants
-The visual studio solution already comes with various build options for some TMF variants.\
-![image](https://github.com/user-attachments/assets/25da4bde-8146-4740-94d6-d7e75660a87a)\
-Building in x64 is **not supported** since TMF is 32-bit.\
-If you're having compilation issues, make sure you're **ONLY** compiling to x86/Win32.\
-Building for United and Nations is not currently supported. Only Modloader builds are.
 
 ## Support me
 There currently aren't any monetary ways of supporting me, so if you like Twinkie and you have a github account, please star it so that more people see it, or be kind enough to share it with your friends.
