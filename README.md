@@ -1,3 +1,4 @@
+*This project is discontinued.*
 # TwinkieForever
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/TwinkieTweaks/TwinkieForever?include_prereleases&color=f132e3)](https://github.com/TwinkieTweaks/TwinkieForever/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/TwinkieTweaks/TwinkieForever/total?color=f132e3)](https://github.com/TwinkieTweaks/TwinkieForever/releases)
