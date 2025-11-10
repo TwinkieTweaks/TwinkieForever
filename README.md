@@ -1,4 +1,4 @@
-# Twinkie
+# TwinkieForever
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/TwinkieTweaks/Twinkie?include_prereleases&color=f132e3)](https://github.com/TwinkieTweaks/Twinkie/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/TwinkieTweaks/Twinkie/total?color=f132e3)](https://github.com/TwinkieTweaks/Twinkie/releases)
 [![GitHub contributors](https://img.shields.io/github/contributors/TwinkieTweaks/Twinkie?color=f132e3)](https://github.com/TwinkieTweaks/Twinkie/graphs/contributors)\
