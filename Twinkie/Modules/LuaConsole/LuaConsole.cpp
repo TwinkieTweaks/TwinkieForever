@@ -68,7 +68,8 @@ void LuaConsoleModule::Render()
 
         lua_pushcfunction(GetLuaState(LuaConsoleStateName), LuaConsoleClear);
         lua_setglobal(GetLuaState(LuaConsoleStateName), "clear");
-        lua_getglobal(GetLuaState(LuaConsoleStateName), "clear");
+
+        lua_pushcfunction(GetLuaState(LuaConsoleStateName), LuaConsoleClear);
         lua_setglobal(GetLuaState(LuaConsoleStateName), "cls");
     }
 
