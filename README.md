@@ -38,7 +38,6 @@ Keep in mind that **this is an experimental setting**, **it might not work at al
 
 ## Screenshots
 <img width="1919" height="1079" alt="In stadium, with every UI element visible" src="https://github.com/user-attachments/assets/d613bbe6-55f6-468b-96dd-9b4be8f221b8" />
-<img width="1919" height="1079" alt="In coast, with a simple UI layout" src="https://github.com/user-attachments/assets/650be736-1e9e-456e-9f4e-e7ea742846ce" />
 
 ## Contribute
 To know how to make new modules, check out [`CreatingModules.md`](https://github.com/TwinkieTweaks/Twinkie/blob/master/CreatingModules.md)
