@@ -2,7 +2,7 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/TwinkieTweaks/Twinkie?include_prereleases&color=f132e3)](https://github.com/TwinkieTweaks/Twinkie/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/TwinkieTweaks/Twinkie/total?color=f132e3)](https://github.com/TwinkieTweaks/Twinkie/releases)
 [![GitHub contributors](https://img.shields.io/github/contributors/TwinkieTweaks/Twinkie?color=f132e3)](https://github.com/TwinkieTweaks/Twinkie/graphs/contributors)\
-Twinkie is a QOL modification for TrackMania Forever, a practical alternative to Openplanet, but for TMNF and TMUF.\
+TwinkieForever is a discontinued fork of Twinkie, for TrackMania Forever.\
 It features a modular (or plugin-like) system for overlays and patches, that makes it practical to customize every feature available.
 
 # Setup
@@ -26,6 +26,7 @@ Due to Medal's uncooperativeness, you might have to do these following steps to 
 Keep in mind that **this is an experimental setting**, **it might not work at all** or **it might make your clips stuttery** but it is worth trying.
 
 ## Features
+- **Lua scripting**, for custom module creation
 - Ghost Editor, allows you to access the ghost editor without the cheat code.
 - Dashboard, an input display and gear display (tachometer, and gear number indicator) with customizable options
 - Checkpoint counter, does what it says right on the tin
@@ -36,8 +37,8 @@ Keep in mind that **this is an experimental setting**, **it might not work at al
 - **Map Validator**, for validating your maps
 
 ## Screenshots
-![In stadium, playing solo on a Premium build](https://github.com/user-attachments/assets/54d06017-bbf3-48ee-b8e1-a07288d3d672)
-![In coast/bay envimix, playing multiplayer](https://github.com/user-attachments/assets/5391ee54-9d2f-40a6-9c26-218cd95e2bf1)
+<img width="1919" height="1079" alt="In stadium, with every UI element visible" src="https://github.com/user-attachments/assets/d613bbe6-55f6-468b-96dd-9b4be8f221b8" />
+<img width="1919" height="1079" alt="In coast, with a simple UI layout" src="https://github.com/user-attachments/assets/650be736-1e9e-456e-9f4e-e7ea742846ce" />
 
 ## Contribute
 To know how to make new modules, check out [`CreatingModules.md`](https://github.com/TwinkieTweaks/Twinkie/blob/master/CreatingModules.md)
