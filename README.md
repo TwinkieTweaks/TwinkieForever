@@ -47,7 +47,7 @@ The visual studio solution already comes with various build options for some TMF
 ![image](https://github.com/user-attachments/assets/25da4bde-8146-4740-94d6-d7e75660a87a)\
 Building in x64 is **not supported** since TMF is 32-bit.\
 If you're having compilation issues, make sure you're **ONLY** compiling to x86/Win32.\
-Building for United and Nations is not currently supported. Only Modloader/Premium builds are.
+Building for United and Nations is not currently supported. Only Modloader builds are.
 
 ## Support me
 There currently aren't any monetary ways of supporting me, so if you like Twinkie and you have a github account, please star it so that more people see it, or be kind enough to share it with your friends.
