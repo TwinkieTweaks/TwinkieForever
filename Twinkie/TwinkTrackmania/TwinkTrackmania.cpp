@@ -18,7 +18,7 @@ bool VehicleInputs::IsSteering() const
 // CTOR
 TwinkTrackmania::TwinkTrackmania()
 {
-    auto TMInterface = LoadLibraryA("TMInterface.dll");
+    auto TMInterface = GetModuleHandleA("TMInterface.dll");
     if (TMInterface)
     {
         TMInterfaceLoaded = true;
